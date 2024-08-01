@@ -77,7 +77,7 @@ docs_dir: docs/
 # +--------------------------------------------------------------------------------------------------------+
 repo_name: docs.swarmsolver.ai
 repo_url: https://github.com/swarmsolver-ai/docs.swarmsolver.ai
-edit_uri: tree/main/docs # Uncomment to define a different URI/URL for the "edit" option
+# edit_uri: tree/main/docs # Uncomment to define a different URI/URL for the "edit" option
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
