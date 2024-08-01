@@ -95,6 +95,7 @@ edit_uri: tree/main/docs # Uncomment to define a different URI/URL for the "edit
 nav:
   - Swarmsolver:
     - About: swarmsolver/about.md
+    - Setup: swarmsolver/setup.md
 
 
 # +--------------------------------------------------------------------------------------------------------+
