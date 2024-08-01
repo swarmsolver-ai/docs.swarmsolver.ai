@@ -174,6 +174,7 @@ theme:
   # +------------------------------------------------------------------------------------------------------+
 
   palette:
+    - primary: blue
 
     # Palette toggle for light mode
     - scheme: default
