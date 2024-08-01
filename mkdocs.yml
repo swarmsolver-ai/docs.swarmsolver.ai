@@ -75,8 +75,8 @@ docs_dir: docs/
 # | - https://www.mkdocs.org/user-guide/configuration/#edit_uri                                            |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-repo_name: docs.swarmsolver.ai
-repo_url: https://github.com/swarmsolver-ai/docs.swarmsolver.ai
+# repo_name: docs.swarmsolver.ai
+# repo_url: https://github.com/swarmsolver-ai/docs.swarmsolver.ai
 # edit_uri: tree/main/docs # Uncomment to define a different URI/URL for the "edit" option
 
 # +--------------------------------------------------------------------------------------------------------+
