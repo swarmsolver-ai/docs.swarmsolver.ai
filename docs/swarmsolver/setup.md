@@ -39,7 +39,23 @@ Before running SwarmSolver, you need to configure your workspaces in the `applic
     - **Server Port**: The `port` setting under `server` specifies the port number on which SwarmSolver will run. The default port is 8088, but you can change it to any available port number if needed.
     - **Workspaces**: Under `ai.swarmsolver`, you define the workspaces with their respective paths. Replace the example paths with the actual paths where your workspace data is stored.
 
+## Additional Steps
 
+1. **Copy Default Workspace Structure**:
+   - When create a new workspace copy the directory structure from the default workspace. A workspace has the following structure:
+     ```
+     workspace
+     ├── config
+     │   ├── keys.properties
+     │   └── agents.groovy
+     └── data
+     ```
+
+2. **Get OpenAI API Key**:
+   - The default agent defined in agents.groovy uses the OpenAI API
+   - Obtain an OpenAI API key from OpenAI and paste it into the `keys.properties` file in the `config` directory. The entry for the key should be in the format: `OPENAI_API_KEY=sk-...`.
+
+With these additional steps, your SwarmSolver setup will be complete and ready to run.
 ## Running SwarmSolver
 
 ### On Linux
