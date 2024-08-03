@@ -24,6 +24,7 @@ Before running SwarmSolver, you need to configure your workspaces in the `applic
     - Use a text editor to open the file.
 
 2. **Define Your Workspaces and Server Port**:
+   - There is a default workspace structure in the unzipped package. it is recommended that you copy this initial workspace in a directory of your choice and refer to it from the `application.yaml`
     - Customize the workspaces and server port according to your needs. Here’s an anonymized example:
 
    ```yaml
@@ -44,7 +45,7 @@ Before running SwarmSolver, you need to configure your workspaces in the `applic
 1. **Copy Default Workspace Structure**:
    - When create a new workspace copy the directory structure from the default workspace. A workspace has the following structure:
      ```
-     workspace
+     <workspace dir>
      ├── config
      │   ├── keys.properties
      │   └── agents.groovy
