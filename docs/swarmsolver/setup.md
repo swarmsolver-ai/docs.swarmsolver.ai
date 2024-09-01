@@ -9,7 +9,7 @@ This guide will walk you through the steps to set up and run SwarmSolver on your
 ## Installation
 
 1. **Download SwarmSolver**:
-    - You can download the latest release of SwarmSolver from the [GitHub releases page](https://github.com/your-repo/releases).
+    - You can download the latest release of SwarmSolver from the [GitHub releases page](https://github.com/swarmsolver-ai/swarmsolver/tags).
 
 2. **Extract the Archive**:
     - Unzip the downloaded package to your desired installation directory.
