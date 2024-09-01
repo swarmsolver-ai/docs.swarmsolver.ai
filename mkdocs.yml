@@ -30,7 +30,7 @@
 site_name: swarmsolver.ai documentation
 site_description: 'swarmsolver.ai documentation website'
 site_author: 'swarmsolver.ai'
-site_url: 'https://docs.swarmsolver.ai'
+site_url: 'https://www.swarmsolver.ai'
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
@@ -399,7 +399,7 @@ extra:
   # +------------------------------------------------------------------------------------------------------+
   social:
     - icon: 'fontawesome/brands/github'
-      link: 'https://github.com/storydoc-io/fabric'
+      link: 'https://github.com/swarmsolver-ai/swarmsolver'
 
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
